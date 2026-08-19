@@ -1,0 +1,5 @@
+{
+  "n_estimators": 10,
+  "max_depth": 3,
+  "accuracy": 1.0
+}
