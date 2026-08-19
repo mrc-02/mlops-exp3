@@ -1,3 +1,24 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.vscode/
+.DS_Store
+pip-wheel-metadata/
+
+# Data and artifacts
+data/
+dvc_remote/
+models/
+*.pkl
+*.log
+
+# DVC cache and temp
+.dvc/
+*.dvc
 # Python
 __pycache__/
 *.py[cod]
