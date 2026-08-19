@@ -5,11 +5,7 @@ __pycache__/
 .env
 venv/
 
-# Data and Models (tracked by DVC)
-data/
-models/
-
-# DVC cache
+# DVC cache only (not the .dvc pointer files)
 .dvc/cache/
 .dvc/tmp/
 
