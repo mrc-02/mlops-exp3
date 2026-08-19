@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Data and Models (tracked by DVC)
+data/
+models/
+
+# DVC cache
+.dvc/cache/
+.dvc/tmp/
+
+# IDE
+.vscode/
+.idea/
